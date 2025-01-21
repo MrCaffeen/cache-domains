@@ -1,0 +1,6 @@
+# Dadlan Subnet Sites to Cache
+lc.private.dadlan.au	
+files.private.dadlan.au	
+files.dadlan.au	
+kb.private.dadlan.au	
+kb.dadlan.au
