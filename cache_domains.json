@@ -20,6 +20,11 @@
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
 		},
+        {
+            "name": "dadlansubnet",
+            "description": "DADLan Subnet Websites",
+            "domain_files": ["dadlansubnet.txt"]
+        },
 		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
